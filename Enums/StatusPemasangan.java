@@ -1,0 +1,16 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package TugasBesar.Enums;
+
+/**
+ *
+ * @author Gunawan Zaki
+ */
+public enum StatusPemasangan {
+    MENUNGGU_JADWAL,
+    DIJADWALKAN,
+    DALAM_PROSES,
+    SUDAH_SELESAI
+}
